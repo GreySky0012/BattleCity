@@ -1,0 +1,188 @@
+﻿Build started 2016/5/11 21:07:35.
+     1>Project "D:\Code\MyCode\Alex_BattleCity单机完整版\Alex_BattleCity\Alex_BattleCity.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\DX\Include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Action.cpp ActionManager.cpp ActiveSprite.cpp AutoRef.cpp Award.cpp Bullet.cpp CFont.cpp ChoiceScene.cpp Controller.cpp GameManager.cpp GameScene.cpp main.cpp Map.cpp MapScene.cpp MyWindow.cpp OverScene.cpp Ref.cpp ReleaseManager.cpp MyRender.cpp Ret.cpp Scene.cpp Sound.cpp Sprite.cpp StartScene.cpp StaticSprite.cpp Tank.cpp Texture.cpp
+         Action.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ActionManager.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ActiveSprite.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         AutoRef.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         Award.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Award.cpp(15): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Award.cpp(29): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>Award.cpp(30): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         Bullet.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\bullet.h(11) : see previous definition of 'BulletSpeed'
+     1>Bullet.cpp(78): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+         CFont.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ChoiceScene.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Controller.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         GameManager.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         GameScene.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+     1>GameScene.cpp(141): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(181): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(201): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(220): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(409): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>GameScene.cpp(582): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>GameScene.cpp(600): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         main.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         Map.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         MapScene.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>MapScene.cpp(12): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>MapScene.cpp(48): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         MyWindow.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>MyWindow.cpp(70): warning C4800: 'ATOM' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MyWindow.cpp(126): warning C4244: 'initializing' : conversion from 'float' to 'DWORD', possible loss of data
+         OverScene.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Ref.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ReleaseManager.cpp
+         MyRender.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Ret.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Ret.cpp(12): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(13): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(14): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(15): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(18): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(19): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(20): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(21): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(25): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>Ret.cpp(34): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(35): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(36): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(37): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(40): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(41): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(42): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(43): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(47): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+         Compiling...
+         Scene.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Sound.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Sprite.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Sprite.cpp(10): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>Sprite.cpp(68): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>Sprite.cpp(88): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Sprite.cpp(89): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Sprite.cpp(90): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Sprite.cpp(91): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+         StartScene.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         StaticSprite.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Tank.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\common.h(37): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\Bullet.h(11) : see previous definition of 'BulletSpeed'
+     1>Tank.cpp(192): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(193): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(198): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(202): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>Tank.cpp(277): warning C4018: '<' : signed/unsigned mismatch
+     1>Tank.cpp(368): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(370): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(374): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(376): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(381): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(385): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(389): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(393): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Texture.cpp
+         D:\DX\9\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\MyCode\Alex_BattleCity单机完整版\Release\Alex_BattleCity.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\DX\Lib\x86 /LIBPATH:D:\BASS\bass24\c d3d9.lib d3dx9.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Code\MyCode\Alex_BattleCity单机完整版\Release\Alex_BattleCity.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Code\MyCode\Alex_BattleCity单机完整版\Release\Alex_BattleCity.lib" /MACHINE:X86 /SAFESEH Release\Action.obj
+         Release\ActionManager.obj
+         Release\ActiveSprite.obj
+         Release\AutoRef.obj
+         Release\Award.obj
+         Release\Bullet.obj
+         Release\CFont.obj
+         Release\ChoiceScene.obj
+         Release\Controller.obj
+         Release\GameManager.obj
+         Release\GameScene.obj
+         Release\main.obj
+         Release\Map.obj
+         Release\MapScene.obj
+         Release\MyWindow.obj
+         Release\OverScene.obj
+         Release\Ref.obj
+         Release\ReleaseManager.obj
+         Release\MyRender.obj
+         Release\Ret.obj
+         Release\Scene.obj
+         Release\Sound.obj
+         Release\Sprite.obj
+         Release\StartScene.obj
+         Release\StaticSprite.obj
+         Release\Tank.obj
+         Release\Texture.obj
+         Generating code
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\gamemanager.h(161): warning C4715: 'GameManager::getGrade' : not all control paths return a value
+     1>d:\code\mycode\alex_battlecity单机完整版\alex_battlecity\gamemanager.h(215): warning C4715: 'GameManager::getMyLife' : not all control paths return a value
+         Finished generating code
+         Alex_BattleCity.vcxproj -> D:\Code\MyCode\Alex_BattleCity单机完整版\Release\Alex_BattleCity.exe
+     1>Done Building Project "D:\Code\MyCode\Alex_BattleCity单机完整版\Alex_BattleCity\Alex_BattleCity.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:40.04

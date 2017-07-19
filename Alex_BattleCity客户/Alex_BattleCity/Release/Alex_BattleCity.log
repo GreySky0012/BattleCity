@@ -1,0 +1,51 @@
+﻿Build started 2015/9/18 13:00:03.
+     1>Project "D:\MFC\Alex_BattleCity客户\Alex_BattleCity\Alex_BattleCity.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ID:\DX\Include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WaitingScene.cpp
+         WaitingScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity客户\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity客户\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MFC\Alex_BattleCity客户\Release\Alex_BattleCity.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\DX\Lib\x86 /LIBPATH:D:\BASS\bass24\c d3d9.lib d3dx9.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MFC\Alex_BattleCity客户\Release\Alex_BattleCity.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MFC\Alex_BattleCity客户\Release\Alex_BattleCity.lib" /MACHINE:X86 /SAFESEH Release\Action.obj
+         Release\ActionManager.obj
+         Release\ActiveSprite.obj
+         Release\AutoRef.obj
+         Release\Award.obj
+         Release\Bullet.obj
+         Release\CFont.obj
+         Release\ChoiceScene.obj
+         Release\ClientNet.obj
+         Release\Controller.obj
+         Release\GameManager.obj
+         Release\GameScene.obj
+         Release\main.obj
+         Release\Map.obj
+         Release\MapScene.obj
+         Release\MyWindow.obj
+         Release\OverScene.obj
+         Release\Ref.obj
+         Release\ReleaseManager.obj
+         Release\MyRender.obj
+         Release\Ret.obj
+         Release\Scene.obj
+         Release\Sound.obj
+         Release\Sprite.obj
+         Release\StartScene.obj
+         Release\StaticSprite.obj
+         Release\Tank.obj
+         Release\Texture.obj
+         Release\WaitingScene.obj
+         Generating code
+     1>d:\mfc\alex_battlecity客户\alex_battlecity\gamemanager.h(162): warning C4715: 'GameManager::getGrade' : not all control paths return a value
+     1>d:\mfc\alex_battlecity客户\alex_battlecity\gamemanager.h(216): warning C4715: 'GameManager::getMyLife' : not all control paths return a value
+     1>d:\mfc\alex_battlecity客户\alex_battlecity\clientnet.cpp(68): warning C4715: 'CClientNet::Listening' : not all control paths return a value
+     1>d:\mfc\alex_battlecity客户\alex_battlecity\clientnet.cpp(34): warning C4715: 'CClientNet::Init' : not all control paths return a value
+         Finished generating code
+         Alex_BattleCity.vcxproj -> D:\MFC\Alex_BattleCity客户\Release\Alex_BattleCity.exe
+     1>Done Building Project "D:\MFC\Alex_BattleCity客户\Alex_BattleCity\Alex_BattleCity.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:02:05.58

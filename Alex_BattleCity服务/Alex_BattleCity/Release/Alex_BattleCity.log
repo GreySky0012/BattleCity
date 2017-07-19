@@ -1,0 +1,214 @@
+﻿Build started 2015/9/18 12:45:17.
+     1>Project "D:\MFC\Alex_BattleCity服务\Alex_BattleCity\Alex_BattleCity.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ID:\DX\Include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Action.cpp ActionManager.cpp ActiveSprite.cpp AutoRef.cpp Award.cpp Bullet.cpp CFont.cpp ChoiceScene.cpp Controller.cpp GameManager.cpp GameScene.cpp Map.cpp MapScene.cpp MyRender.cpp MyWindow.cpp OverScene.cpp Ref.cpp Ret.cpp Scene.cpp Sound.cpp Sprite.cpp StartScene.cpp StaticSprite.cpp Tank.cpp Texture.cpp WaitingScene.cpp main.cpp
+         Action.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ActionManager.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ActiveSprite.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         AutoRef.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         Award.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Award.cpp(15): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>Award.cpp(29): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>Award.cpp(30): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         Bullet.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\bullet.h(11) : see previous definition of 'BulletSpeed'
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>Bullet.cpp(78): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+         CFont.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         ChoiceScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+         Controller.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Controller.cpp(72): warning C4390: ';' : empty controlled statement found; is this the intent?
+         GameManager.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+         GameScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+     1>GameScene.cpp(141): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(181): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(201): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(220): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>GameScene.cpp(441): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>GameScene.cpp(614): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>GameScene.cpp(632): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         Map.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         MapScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>MapScene.cpp(11): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>MapScene.cpp(47): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+         MyRender.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         MyWindow.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>MyWindow.cpp(71): warning C4800: 'ATOM' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MyWindow.cpp(127): warning C4244: 'initializing' : conversion from 'float' to 'DWORD', possible loss of data
+         OverScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+         Ref.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Ret.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Ret.cpp(12): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(13): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(14): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(15): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(18): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(19): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(20): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(21): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(25): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+     1>Ret.cpp(34): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(35): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(36): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(37): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(40): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(41): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(42): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(43): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Ret.cpp(47): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+         Scene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Sound.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Compiling...
+         Sprite.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>Sprite.cpp(10): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>Sprite.cpp(68): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>Sprite.cpp(88): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Sprite.cpp(89): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Sprite.cpp(90): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+     1>Sprite.cpp(91): warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+         StartScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+         StaticSprite.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         Tank.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\Bullet.h(11) : see previous definition of 'BulletSpeed'
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>Tank.cpp(191): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(192): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(197): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(201): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>Tank.cpp(276): warning C4018: '<' : signed/unsigned mismatch
+     1>Tank.cpp(363): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(365): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(369): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(373): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(377): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>Tank.cpp(381): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+         Texture.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+         WaitingScene.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(228): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\GameManager.h(232): warning C4553: '==' : operator has no effect; did you intend '='?
+         main.cpp
+         D:\DX\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+         FDraw.h-->Linking with ddraw.lib
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\Bullet.h(11): warning C4005: 'BulletSpeed' : macro redefinition
+                 d:\mfc\alex_battlecity服务\alex_battlecity\common.h(37) : see previous definition of 'BulletSpeed'
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MFC\Alex_BattleCity服务\Release\Alex_BattleCity.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\DX\Lib\x86 /LIBPATH:D:\BASS\bass24\c d3d9.lib d3dx9.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MFC\Alex_BattleCity服务\Release\Alex_BattleCity.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MFC\Alex_BattleCity服务\Release\Alex_BattleCity.lib" /MACHINE:X86 /SAFESEH Release\Action.obj
+         Release\ActionManager.obj
+         Release\ActiveSprite.obj
+         Release\AutoRef.obj
+         Release\Award.obj
+         Release\Bullet.obj
+         Release\CFont.obj
+         Release\ChoiceScene.obj
+         Release\Controller.obj
+         Release\GameManager.obj
+         Release\GameScene.obj
+         Release\main.obj
+         Release\Map.obj
+         Release\MapScene.obj
+         Release\MyWindow.obj
+         Release\OverScene.obj
+         Release\Ref.obj
+         Release\ReleaseManager.obj
+         Release\MyRender.obj
+         Release\Ret.obj
+         Release\Scene.obj
+         Release\Server.obj
+         Release\Sound.obj
+         Release\Sprite.obj
+         Release\StartScene.obj
+         Release\StaticSprite.obj
+         Release\Tank.obj
+         Release\Texture.obj
+         Release\WaitingScene.obj
+         Generating code
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\server.cpp(95): warning C4715: 'CServerNet::Listening' : not all control paths return a value
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\gamemanager.h(162): warning C4715: 'GameManager::getGrade' : not all control paths return a value
+     1>d:\mfc\alex_battlecity服务\alex_battlecity\gamemanager.h(216): warning C4715: 'GameManager::getMyLife' : not all control paths return a value
+         Finished generating code
+         Alex_BattleCity.vcxproj -> D:\MFC\Alex_BattleCity服务\Release\Alex_BattleCity.exe
+     1>Done Building Project "D:\MFC\Alex_BattleCity服务\Alex_BattleCity\Alex_BattleCity.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:03:05.74
